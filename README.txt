@@ -1,5 +1,5 @@
 
-Hybrid cryptography - Asymmetric and Symmetric crypto systems together provide security for the data transmission over insecure medium. It works in two stages, in first stage the key to encrypt/decrypt the information is shared using RSA key pairs (Asymmetric Crypto). After the completion of first stage, the communication happens over second stage where the information is encrypted/decrypted using AES symmetric keys (Shared securely in first stage).
+Hybrid Cryptography - Asymmetric and Symmetric crypto systems together provide security for the data transmission over insecure medium. It works in two stages, in first stage the key to encrypt/decrypt the information is shared using RSA key pairs (Asymmetric Crypto). After the completion of first stage, the communication happens over second stage where the information is encrypted/decrypted using AES symmetric keys (Shared securely in first stage).
 
 Running the program: (On localhost)
 
