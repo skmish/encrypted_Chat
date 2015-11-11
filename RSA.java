@@ -1,8 +1,6 @@
 /**
  * RSA.java
  * 
- * @author Sarvagya Kumar Mishra
- * 
  * This program will be called by Server program. It is not required to individually.
  * 
  * Compile	 	$javac RSA.java 
