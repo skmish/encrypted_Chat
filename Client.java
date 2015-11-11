@@ -1,8 +1,6 @@
 
 /**
  * Client.java
- * 
- *  @author Sarvagya Kumar Mishra
  *  
  *  Dependency : Sever.java, message.java, RSA.java
  *  
