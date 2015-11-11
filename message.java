@@ -1,7 +1,6 @@
 /**
  * message.java 
  * 
- * @author		Sarvagya Kumar Mishra
  * 
  * Compile	 	$javac message.java 
  * 
