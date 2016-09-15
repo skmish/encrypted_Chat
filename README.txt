@@ -31,7 +31,6 @@ The proof of concept application consists of four java classes:
 
 Compilation: Only Server and Client class needs compilation.
 
-
 When the Client program is run, first stage of sharing the key takes place automatically.
 
 After the first stage, both - Client and Server can send and receive messages.
@@ -62,8 +61,5 @@ Files required on Client machine(in same directory):
 3. public.key
 4. private.key
 
-Usage: $ java Server
-
-Optional:
->>>> If new kay pair is required, just compile and run RSA.java. It will create two new files. Copy and paste the two key files on both - Server and Client.
+Usage: $java Server
 
