@@ -1,7 +1,8 @@
 
-Hybrid Cryptography - Asymmetric and Symmetric crypto systems together provide security for the data transmission over insecure medium. It works in two stages, in first stage the key to encrypt/decrypt the information is shared using RSA key pairs (Asymmetric Crypto). After the completion of first stage, the communication happens over second stage where the information is encrypted/decrypted using AES symmetric keys (Shared securely in first stage).
+# Hybrid Cryptography
+Asymmetric and Symmetric crypto systems together provide security for the data transmission over insecure medium. It works in two stages, in first stage the key to encrypt/decrypt the information is shared using RSA key pairs (Asymmetric Crypto). After the completion of first stage, the communication happens over second stage where the information is encrypted/decrypted using AES symmetric keys (Shared securely in first stage).
 
-Running the program: (On localhost)
+## Running the program: (On localhost)
 
 All six files (four classes and two key files) should be saved in the same directory.
 
@@ -10,14 +11,14 @@ Two terminal windows are required to simulate client server model.
 In first terminal window:  Run the server program - $java Server
 In second terminal window: Run the client program - $java Client
 
-Key features used:
+### Key features used:
 
 - java networking client and server sockets
 - Threads.
 - Java Serialisation.
 - Java Cryptography Architecture
 
-Security Algorithms Used:
+### Security Algorithms Used:
 RSA and AES
 
 
